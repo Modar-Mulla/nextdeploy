@@ -7,10 +7,10 @@ DOMAIN_NAME="weisro.de" # replace with your own
 EMAIL="your-email@example.com" # replace with your own
 NEXT_API="https://api.weisro.com/api/v0"
 NEXT_IMAGES_API="https://api.weisro.com"
-NEXT_DOMAIN="https://weisro.de"
+NEXT_DOMAIN="https://weisro.com"
 NEXT_PUBLIC_IMAGES_API="https://api.weisro.com"
 NEXT_PUBLIC_API="https://api.weisro.com/api/v0"
-NEXT_PUBLIC_DOMAIN="https://weisro.de"
+NEXT_PUBLIC_DOMAIN="https://weisro.com"
 
 # Script Vars
 REPO_URL="https://gitlab.com/moddar8moulla/weisro.git"
